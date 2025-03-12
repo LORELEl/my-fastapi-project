@@ -1,2 +1,12 @@
+
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+.venv/
 .env
-.venv
+
+# 其他
+*.log
